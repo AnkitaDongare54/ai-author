@@ -4,7 +4,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 import streamlit as st
 import speech_recognition as sr
-import pyaudio
+import pyaudio..
 
 # Function to load dataset
 @st.cache_data
